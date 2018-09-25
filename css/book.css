@@ -4,5 +4,11 @@ p {
 }
 
 h2 {
+  color: black;
+  font-family: sans-serif;
+}
 
+time {
+  color: navy;
+  
 }
