@@ -13,5 +13,9 @@ h2 {
 figcaption {
   color: pink;
   font-family: "Arial", sans-serif;
+  font-style: italic;
+}
 
+.opening-line {
+  text-indent: 20%;
 }
