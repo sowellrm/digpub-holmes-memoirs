@@ -2,7 +2,7 @@ p {
   font-family: "Georgia", serif;
   color: black;
   font-size: 14px;
-  
+
 }
 
 h2 {
@@ -12,5 +12,6 @@ h2 {
 
 figcaption {
   color: pink;
+  font-family: "Arial", sans-serif;
 
 }
